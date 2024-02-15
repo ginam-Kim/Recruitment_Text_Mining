@@ -6,7 +6,7 @@
 - KeyBERT, BERTopic로 추출한 군집별 키워드를 활용해 인사이트 도출
 - Text Network를 통해 취업에 필요한 Teck Stack 제안
 - 생성형 AI를 활용한 Few-Shot Prompting을 통해 사용자의 필요한 역량 제안
-- Django Framework를 활용한 WebPage 배포 |
+- Django Framework를 활용한 WebPage | [Recruitment_Text_Mining_Django](https://github.com/ginam-Kim/Recruitment_Text_Mining_Django)
 
 ##
 <img src="https://github.com/ginam-Kim/Recruitment_Text_Mining/assets/125203829/15c8b840-f65b-44ab-857b-d940ae0714f8"  width="1177" height="500">
